@@ -1,4 +1,4 @@
-# Traitor branch2 version another
+# Traitor branch2 version final
 
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 
